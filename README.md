@@ -19,3 +19,11 @@ This project is a feature-rich digital clock built using HTML, CSS, and JavaScri
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/advanced-digital-clock.git
+   ```
+
+   2. **Navigate to the Project Directory:**
+   ```bash
+   cd advanced-digital-clock
+    ```
+
+   3. **Open index.html in a Browser**
