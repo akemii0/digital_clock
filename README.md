@@ -18,7 +18,7 @@ This project is a feature-rich digital clock built using HTML, CSS, and JavaScri
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/akemii0/advanced-digital-clock.git
+   git clone https://github.com/akemii0/digital_clock.git
    ```
 
 2. **Navigate to the Project Directory:**
